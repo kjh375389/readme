@@ -1,0 +1,7 @@
+[user]
+	name = kjh
+	email = kjh375389@gmail.com
+[credential "https://kdt-gitlab.elice.io"]
+	provider = gitlab
+[safe]
+	directory = C:/Users/nocco/AppData/Roaming/SPB_16.6
